@@ -6,7 +6,7 @@ I'm Priyank Jagad, a Software Engineer passionate about building scalable, high-
 
 Open-source projects involving React, Node.js, Django, or FastAPI
 
-Scalable web platforms and backend services
+Building things that scale — from slick UIs to solid backends
 
 Cloud infrastructure work, especially with AWS and distributed systems
 
